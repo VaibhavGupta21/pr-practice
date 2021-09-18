@@ -52,7 +52,7 @@ Use this format
 ## U
 
 ## V
-[Vaibhav Gupta](https://github.com/VaibhavGupta21)
+[Vaibhav Gupta] (https://github.com/VaibhavGupta21)
 
 ## W
 
